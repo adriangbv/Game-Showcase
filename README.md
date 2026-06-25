@@ -1,16 +1,26 @@
-# React + Vite
+# 🔊 Demonstração
+https://github.com/user-attachments/assets/e43f2732-339a-448c-9307-5c98f6965e45
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# 🎮 Game Showcase
+Um showcase dinamico e interativo com cenas de jogos que eu gosto desde a infancia, construido com react e tailwind.
+Cada titulo exibe 3 gifs ao posicionar seu mouse encima deles, podendo clicar para ser direcionado ao link steam do jogo.
 
-Currently, two official plugins are available:
+## ⚙️ Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+  * **React**
+  * **Tailwindcss**
+  * **JavaScript**
+  * **Vite**
 
-## React Compiler
+## ⭐ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  * Lista Interativa
+  * A tela responde ao posicionamento do seu mouse
+  * Gif dinâmicos e responsivos
+  * Linkes externos
+  * Arquitetura escalável
 
-## Expanding the Oxlint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🔧O Processo
+Eu queria fazer algo que interligasse algo que eu gostei com tecnologia, então eu decidi fazer um showcase de jogos que eu gosto muito.
+Nesse projeto pude aprofundar mais meus conhecimentos em React, criando uma lista recuperando os dados dentro do Array, e quando seu mouse esta encima de um dos títulos ele exibe gifs dos jogos em posições alternadas, parecendo estarem flutuando.
